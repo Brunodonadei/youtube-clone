@@ -25,14 +25,20 @@ Siga estas etapas para instalar e executar o projeto localmente:
 
    ```bash
    git clone https://github.com/seu-usuario/clone-youtube-react.git
-
-   Navegue até a pasta do projeto:
+   ```
+2. Navegue até a pasta do projeto:
+   ```bash
    cd clone-youtube-react
-
-   Instale as dependências do projeto:
+   ```
+    
+3. Instale as dependências do projeto:
+   ```bash
    npm install
-
-   Inicie o servidor de desenvolvimento:
+   ```
+   
+5. Inicie o servidor de desenvolvimento:
+   ```bash
    npm start
+   ```
 
    Abra seu navegador e acesse http://localhost:3000 para visualizar o aplicativo.
